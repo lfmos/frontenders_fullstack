@@ -1,2 +1,2 @@
 # frontenders_fullstack
-Aplicativo Web experimental didático com Python e Flask
+Aplicativo fullstack com Python e Flask
